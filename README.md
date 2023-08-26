@@ -1,5 +1,5 @@
 # CVIP-DataScience-Intern-Phase1-Diabetes
-😷 Diabeties Diagnosis: Phase 1(Golden Task)  Completed 📊
+😷 Diabeties Predction: Phase 1(Golden Task)  Completed 📊
 
 
 Task Done:
